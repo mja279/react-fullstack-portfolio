@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* @media (min-width:320px) and (max-width:425px) {
+    .about-responsive{
+        background-size: 50% 50%;
+        height:100%;  
+    }
+} */
+
+#aboutDiv {
+    font-family: 'Rock Salt', cursive;
+    font-size: 20px;
+    float: right;
+    padding: 10;
+    margin-top: 420px;
+    margin-bottom: 10px;
+    width: 58%;
+    height: 300px;
+}
+
+h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.icons-img {
+    height: 120px;
+    width: 120px;
+    margin: 25px;
+}
